@@ -1,0 +1,5 @@
+*.o
+moc_*
+app
+.qmake.stash
+.idea/
